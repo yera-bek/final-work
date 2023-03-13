@@ -1,0 +1,62 @@
+# Compiled Object files
+*.sln.cache
+*.dll
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.*~
+
+
+# Visual Studio files
+*.obj
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.user
+*.psess
+*.vsp
+*.vspx
+*.userprefs
+*.VC.db
+*.VC.opendb
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+*_g.sln
+*_g.vcproj
+*.bak
+
+# NuGet packages
+*.nupkg
+packages/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Test Files
+test/*.dll
+
+# Build results
+build/
+bin/
